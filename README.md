@@ -5,3 +5,6 @@
 
 ## Reference
 - [Not Ready Yet](https://darktornado.github.io/libdocs/docs/SnackBar/)
+
+## License
+- MIT License
